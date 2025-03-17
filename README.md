@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/palak9898/SQL-queries/tree/master/0044-wildcard-matching) |
+## Linked List
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/palak9898/SQL-queries/tree/master/0147-insertion-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/palak9898/SQL-queries/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
