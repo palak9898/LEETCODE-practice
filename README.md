@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/palak9898/SQL-queries/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/palak9898/SQL-queries/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/palak9898/SQL-queries/tree/master/0096-unique-binary-search-trees) |
 ## Greedy
 |  |
 | ------- |
@@ -64,14 +65,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/palak9898/SQL-queries/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/palak9898/SQL-queries/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/palak9898/SQL-queries/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/palak9898/SQL-queries/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/palak9898/SQL-queries/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/palak9898/SQL-queries/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -110,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/palak9898/SQL-queries/tree/master/0218-the-skyline-problem) |
+## Math
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/palak9898/SQL-queries/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
