@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/palak9898/SQL-queries/tree/master/0096-unique-binary-search-trees) |
+| [0102-binary-tree-level-order-traversal](https://github.com/palak9898/SQL-queries/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/palak9898/SQL-queries/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/palak9898/SQL-queries/tree/master/0110-balanced-binary-tree) |
 ## Binary Search Tree
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/palak9898/SQL-queries/tree/master/0096-unique-binary-search-trees) |
+| [0102-binary-tree-level-order-traversal](https://github.com/palak9898/SQL-queries/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/palak9898/SQL-queries/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/palak9898/SQL-queries/tree/master/0110-balanced-binary-tree) |
 ## Heap (Priority Queue)
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/palak9898/SQL-queries/tree/master/0110-balanced-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/palak9898/SQL-queries/tree/master/0102-binary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
