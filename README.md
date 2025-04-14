@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/palak9898/SQL-queries/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/palak9898/SQL-queries/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/palak9898/SQL-queries/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/palak9898/SQL-queries/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/palak9898/SQL-queries/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/palak9898/SQL-queries/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/palak9898/SQL-queries/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/palak9898/SQL-queries/tree/master/0662-maximum-width-of-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/palak9898/SQL-queries/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/palak9898/SQL-queries/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/palak9898/SQL-queries/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/palak9898/SQL-queries/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -187,4 +190,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/palak9898/SQL-queries/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/palak9898/SQL-queries/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/palak9898/SQL-queries/tree/master/0199-binary-tree-right-side-view) |
+| [0662-maximum-width-of-binary-tree](https://github.com/palak9898/SQL-queries/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
