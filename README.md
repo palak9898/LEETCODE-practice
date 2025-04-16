@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/palak9898/SQL-queries/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/palak9898/SQL-queries/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/palak9898/SQL-queries/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/palak9898/SQL-queries/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/palak9898/SQL-queries/tree/master/0085-maximal-rectangle) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/palak9898/SQL-queries/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/palak9898/SQL-queries/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/palak9898/SQL-queries/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0218-the-skyline-problem](https://github.com/palak9898/SQL-queries/tree/master/0218-the-skyline-problem) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/palak9898/SQL-queries/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/palak9898/SQL-queries/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/palak9898/SQL-queries/tree/master/0085-maximal-rectangle) |
 ## Matrix
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/palak9898/SQL-queries/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/palak9898/SQL-queries/tree/master/0085-maximal-rectangle) |
 ## Depth-First Search
 |  |
@@ -201,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/palak9898/SQL-queries/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/palak9898/SQL-queries/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
