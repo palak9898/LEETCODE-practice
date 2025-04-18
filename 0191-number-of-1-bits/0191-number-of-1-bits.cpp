@@ -3,8 +3,12 @@ public:
     int hammingWeight(uint32_t n) {
     int count = 0;
     while (n != 0) {
-        count += (n & 1);  
-        n >>= 1;           
+        int rem = n%2;          
+    
+        if(rem == 1){
+            count++;
+        }
+        n=n/2;
     }
     return count;
     }
