@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/palak9898/SQL-queries/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/palak9898/SQL-queries/tree/master/0147-insertion-sort-list) |
 ## Sorting
 |  |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/palak9898/SQL-queries/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0141-linked-list-cycle](https://github.com/palak9898/SQL-queries/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/palak9898/SQL-queries/tree/master/0349-intersection-of-two-arrays) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/palak9898/SQL-queries/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2215-finding-3-digit-even-numbers](https://github.com/palak9898/SQL-queries/tree/master/2215-finding-3-digit-even-numbers) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/palak9898/SQL-queries/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/palak9898/SQL-queries/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/palak9898/SQL-queries/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/palak9898/SQL-queries/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/palak9898/SQL-queries/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/palak9898/SQL-queries/tree/master/0917-boats-to-save-people) |
