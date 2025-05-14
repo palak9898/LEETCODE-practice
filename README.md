@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/palak9898/SQL-queries/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/palak9898/SQL-queries/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/palak9898/SQL-queries/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/palak9898/SQL-queries/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/palak9898/SQL-queries/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/palak9898/SQL-queries/tree/master/1019-squares-of-a-sorted-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/palak9898/SQL-queries/tree/master/2215-finding-3-digit-even-numbers) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/palak9898/SQL-queries/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0349-intersection-of-two-arrays](https://github.com/palak9898/SQL-queries/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/palak9898/SQL-queries/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/palak9898/SQL-queries/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/palak9898/SQL-queries/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/palak9898/SQL-queries/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/palak9898/SQL-queries/tree/master/1293-three-consecutive-odds) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/palak9898/SQL-queries/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/palak9898/SQL-queries/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/palak9898/SQL-queries/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/palak9898/SQL-queries/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/palak9898/SQL-queries/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/palak9898/SQL-queries/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Enumeration
