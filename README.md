@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/palak9898/SQL-queries/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/palak9898/SQL-queries/tree/master/0179-largest-number) |
 | [0218-the-skyline-problem](https://github.com/palak9898/SQL-queries/tree/master/0218-the-skyline-problem) |
+| [0283-move-zeroes](https://github.com/palak9898/SQL-queries/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/palak9898/SQL-queries/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/palak9898/SQL-queries/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0349-intersection-of-two-arrays](https://github.com/palak9898/SQL-queries/tree/master/0349-intersection-of-two-arrays) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/palak9898/SQL-queries/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/palak9898/SQL-queries/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/palak9898/SQL-queries/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/palak9898/SQL-queries/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/palak9898/SQL-queries/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/palak9898/SQL-queries/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/palak9898/SQL-queries/tree/master/0908-middle-of-the-linked-list) |
