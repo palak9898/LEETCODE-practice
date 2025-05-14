@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/palak9898/SQL-queries/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/palak9898/SQL-queries/tree/master/0097-interleaving-string) |
 | [0179-largest-number](https://github.com/palak9898/SQL-queries/tree/master/0179-largest-number) |
+| [0443-string-compression](https://github.com/palak9898/SQL-queries/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/palak9898/SQL-queries/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/palak9898/SQL-queries/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/palak9898/SQL-queries/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/palak9898/SQL-queries/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/palak9898/SQL-queries/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/palak9898/SQL-queries/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/palak9898/SQL-queries/tree/master/1019-squares-of-a-sorted-array) |
