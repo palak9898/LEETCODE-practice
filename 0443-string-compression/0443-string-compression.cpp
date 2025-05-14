@@ -12,18 +12,16 @@ public:
             }
             else if( chars[i]!= chars[j]){
                 
-                if(count ==1){
-                    str = str+ chars[i];
-                }
-                else{
+                str = str+ chars[i];
+                if(count>1){
                     string count1 = to_string(count);
-                    str = str+ chars[i];
                     str = str + count1;
                 }
                 i=j;
                 count =0;
             }
         }
+        
         if (count > 0) {
             str += chars[i];
             if (count > 1) {
