@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/palak9898/SQL-queries/tree/master/0097-interleaving-string) |
 | [0179-largest-number](https://github.com/palak9898/SQL-queries/tree/master/0179-largest-number) |
 | [0443-string-compression](https://github.com/palak9898/SQL-queries/tree/master/0443-string-compression) |
+| [3195-separate-black-and-white-balls](https://github.com/palak9898/SQL-queries/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/palak9898/SQL-queries/tree/master/0179-largest-number) |
 | [0917-boats-to-save-people](https://github.com/palak9898/SQL-queries/tree/master/0917-boats-to-save-people) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/palak9898/SQL-queries/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [3195-separate-black-and-white-balls](https://github.com/palak9898/SQL-queries/tree/master/3195-separate-black-and-white-balls) |
 ## Recursion
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/palak9898/SQL-queries/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/palak9898/SQL-queries/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/palak9898/SQL-queries/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3195-separate-black-and-white-balls](https://github.com/palak9898/SQL-queries/tree/master/3195-separate-black-and-white-balls) |
 ## Enumeration
 |  |
 | ------- |
