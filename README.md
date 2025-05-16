@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/palak9898/SQL-queries/tree/master/0097-interleaving-string) |
 | [0179-largest-number](https://github.com/palak9898/SQL-queries/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/palak9898/SQL-queries/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/palak9898/SQL-queries/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/palak9898/SQL-queries/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/palak9898/SQL-queries/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/palak9898/SQL-queries/tree/master/0874-backspace-string-compare) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/palak9898/SQL-queries/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/palak9898/SQL-queries/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/palak9898/SQL-queries/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/palak9898/SQL-queries/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/palak9898/SQL-queries/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/palak9898/SQL-queries/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/palak9898/SQL-queries/tree/master/0647-palindromic-substrings) |
