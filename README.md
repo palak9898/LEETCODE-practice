@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/palak9898/SQL-queries/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/palak9898/SQL-queries/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/palak9898/SQL-queries/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/palak9898/SQL-queries/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/palak9898/SQL-queries/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/palak9898/SQL-queries/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/palak9898/SQL-queries/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/palak9898/SQL-queries/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/palak9898/SQL-queries/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/palak9898/SQL-queries/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/palak9898/SQL-queries/tree/master/0287-find-the-duplicate-number) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/palak9898/SQL-queries/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/palak9898/SQL-queries/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/palak9898/SQL-queries/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/palak9898/SQL-queries/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/palak9898/SQL-queries/tree/master/0089-gray-code) |
 | [0357-count-numbers-with-unique-digits](https://github.com/palak9898/SQL-queries/tree/master/0357-count-numbers-with-unique-digits) |
 ## Stack
