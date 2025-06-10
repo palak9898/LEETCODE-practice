@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/palak9898/SQL-queries/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/palak9898/SQL-queries/tree/master/0031-next-permutation) |
+| [0040-combination-sum-ii](https://github.com/palak9898/SQL-queries/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/palak9898/SQL-queries/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/palak9898/SQL-queries/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/palak9898/SQL-queries/tree/master/0066-plus-one) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/palak9898/SQL-queries/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0040-combination-sum-ii](https://github.com/palak9898/SQL-queries/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/palak9898/SQL-queries/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/palak9898/SQL-queries/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/palak9898/SQL-queries/tree/master/0078-subsets) |
