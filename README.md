@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/palak9898/SQL-queries/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/palak9898/SQL-queries/tree/master/0097-interleaving-string) |
 | [0179-largest-number](https://github.com/palak9898/SQL-queries/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/palak9898/SQL-queries/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/palak9898/SQL-queries/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/palak9898/SQL-queries/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/palak9898/SQL-queries/tree/master/0443-string-compression) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/palak9898/SQL-queries/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/palak9898/SQL-queries/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/palak9898/SQL-queries/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/palak9898/SQL-queries/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/palak9898/SQL-queries/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/palak9898/SQL-queries/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/palak9898/SQL-queries/tree/master/0941-sort-array-by-parity) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/palak9898/SQL-queries/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/palak9898/SQL-queries/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/palak9898/SQL-queries/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/palak9898/SQL-queries/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/palak9898/SQL-queries/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/palak9898/SQL-queries/tree/master/0567-permutation-in-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/palak9898/SQL-queries/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
