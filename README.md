@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/palak9898/SQL-queries/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/palak9898/SQL-queries/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/palak9898/SQL-queries/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/palak9898/SQL-queries/tree/master/0686-repeated-string-match) |
 | [0874-backspace-string-compare](https://github.com/palak9898/SQL-queries/tree/master/0874-backspace-string-compare) |
 | [3195-separate-black-and-white-balls](https://github.com/palak9898/SQL-queries/tree/master/3195-separate-black-and-white-balls) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/palak9898/SQL-queries/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -371,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/palak9898/SQL-queries/tree/master/0043-multiply-strings) |
 | [0874-backspace-string-compare](https://github.com/palak9898/SQL-queries/tree/master/0874-backspace-string-compare) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/palak9898/SQL-queries/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
