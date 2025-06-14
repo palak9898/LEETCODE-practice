@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/palak9898/SQL-queries/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/palak9898/SQL-queries/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/palak9898/SQL-queries/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/palak9898/SQL-queries/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/palak9898/SQL-queries/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/palak9898/SQL-queries/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/palak9898/SQL-queries/tree/master/0078-subsets) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/palak9898/SQL-queries/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/palak9898/SQL-queries/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/palak9898/SQL-queries/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/palak9898/SQL-queries/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/palak9898/SQL-queries/tree/master/0054-spiral-matrix) |
 | [0874-backspace-string-compare](https://github.com/palak9898/SQL-queries/tree/master/0874-backspace-string-compare) |
 ## String Matching
 |  |
