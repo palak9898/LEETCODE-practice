@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/palak9898/SQL-queries/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/palak9898/SQL-queries/tree/master/0917-boats-to-save-people) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/palak9898/SQL-queries/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/palak9898/SQL-queries/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3195-separate-black-and-white-balls](https://github.com/palak9898/SQL-queries/tree/master/3195-separate-black-and-white-balls) |
 ## Recursion
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/palak9898/SQL-queries/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/palak9898/SQL-queries/tree/master/0202-happy-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/palak9898/SQL-queries/tree/master/0357-count-numbers-with-unique-digits) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/palak9898/SQL-queries/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Backtracking
 |  |
 | ------- |
