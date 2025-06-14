@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/palak9898/SQL-queries/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/palak9898/SQL-queries/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/palak9898/SQL-queries/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/palak9898/SQL-queries/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/palak9898/SQL-queries/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/palak9898/SQL-queries/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/palak9898/SQL-queries/tree/master/0078-subsets) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/palak9898/SQL-queries/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/palak9898/SQL-queries/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/palak9898/SQL-queries/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/palak9898/SQL-queries/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/palak9898/SQL-queries/tree/master/0096-unique-binary-search-trees) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/palak9898/SQL-queries/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/palak9898/SQL-queries/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
