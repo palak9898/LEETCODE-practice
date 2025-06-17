@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/palak9898/SQL-queries/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/palak9898/SQL-queries/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/palak9898/SQL-queries/tree/master/0345-reverse-vowels-of-a-string) |
+| [0402-remove-k-digits](https://github.com/palak9898/SQL-queries/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/palak9898/SQL-queries/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/palak9898/SQL-queries/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/palak9898/SQL-queries/tree/master/0647-palindromic-substrings) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/palak9898/SQL-queries/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/palak9898/SQL-queries/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/palak9898/SQL-queries/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/palak9898/SQL-queries/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/palak9898/SQL-queries/tree/master/0917-boats-to-save-people) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/palak9898/SQL-queries/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/palak9898/SQL-queries/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/palak9898/SQL-queries/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/palak9898/SQL-queries/tree/master/0094-binary-tree-inorder-traversal) |
+| [0402-remove-k-digits](https://github.com/palak9898/SQL-queries/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/palak9898/SQL-queries/tree/master/0874-backspace-string-compare) |
 ## Matrix
 |  |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/palak9898/SQL-queries/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/palak9898/SQL-queries/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/palak9898/SQL-queries/tree/master/0402-remove-k-digits) |
 ## Depth-First Search
 |  |
 | ------- |
