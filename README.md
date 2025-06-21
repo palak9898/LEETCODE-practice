@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/palak9898/SQL-queries/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/palak9898/SQL-queries/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/palak9898/SQL-queries/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/palak9898/SQL-queries/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/palak9898/SQL-queries/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/palak9898/SQL-queries/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/palak9898/SQL-queries/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/palak9898/SQL-queries/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/palak9898/SQL-queries/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/palak9898/SQL-queries/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/palak9898/SQL-queries/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/palak9898/SQL-queries/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/palak9898/SQL-queries/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/palak9898/SQL-queries/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/palak9898/SQL-queries/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/palak9898/SQL-queries/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/palak9898/SQL-queries/tree/master/0202-happy-number) |
