@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/palak9898/SQL-queries/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/palak9898/SQL-queries/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/palak9898/SQL-queries/tree/master/0044-wildcard-matching) |
+| [0071-simplify-path](https://github.com/palak9898/LEETCODE-practice/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/palak9898/SQL-queries/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/palak9898/SQL-queries/tree/master/0097-interleaving-string) |
 | [0179-largest-number](https://github.com/palak9898/SQL-queries/tree/master/0179-largest-number) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/palak9898/SQL-queries/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/palak9898/SQL-queries/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/palak9898/LEETCODE-practice/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/palak9898/SQL-queries/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/palak9898/SQL-queries/tree/master/0094-binary-tree-inorder-traversal) |
 | [0402-remove-k-digits](https://github.com/palak9898/SQL-queries/tree/master/0402-remove-k-digits) |
