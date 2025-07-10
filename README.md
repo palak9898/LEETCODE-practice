@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/palak9898/SQL-queries/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/palak9898/SQL-queries/tree/master/0202-happy-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/palak9898/SQL-queries/tree/master/0357-count-numbers-with-unique-digits) |
+| [1806-count-of-matches-in-tournament](https://github.com/palak9898/LEETCODE-practice/tree/master/1806-count-of-matches-in-tournament) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/palak9898/SQL-queries/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Backtracking
 |  |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/palak9898/SQL-queries/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/palak9898/SQL-queries/tree/master/0054-spiral-matrix) |
 | [0874-backspace-string-compare](https://github.com/palak9898/SQL-queries/tree/master/0874-backspace-string-compare) |
+| [1806-count-of-matches-in-tournament](https://github.com/palak9898/LEETCODE-practice/tree/master/1806-count-of-matches-in-tournament) |
 ## String Matching
 |  |
 | ------- |
