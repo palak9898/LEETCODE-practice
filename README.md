@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/palak9898/SQL-queries/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/palak9898/SQL-queries/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/palak9898/SQL-queries/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/palak9898/LEETCODE-practice/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/palak9898/SQL-queries/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/palak9898/SQL-queries/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/palak9898/SQL-queries/tree/master/0179-largest-number) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/palak9898/SQL-queries/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/palak9898/SQL-queries/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/palak9898/SQL-queries/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/palak9898/LEETCODE-practice/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/palak9898/SQL-queries/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/palak9898/SQL-queries/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/palak9898/SQL-queries/tree/master/0461-hamming-distance) |
