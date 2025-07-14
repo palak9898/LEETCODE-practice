@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/palak9898/LEETCODE-practice/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/palak9898/SQL-queries/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/palak9898/SQL-queries/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/palak9898/LEETCODE-practice/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/palak9898/SQL-queries/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/palak9898/SQL-queries/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/palak9898/SQL-queries/tree/master/0344-reverse-string) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/palak9898/SQL-queries/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/palak9898/SQL-queries/tree/master/0097-interleaving-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/palak9898/SQL-queries/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/palak9898/LEETCODE-practice/tree/master/0139-word-break) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/palak9898/SQL-queries/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0357-count-numbers-with-unique-digits](https://github.com/palak9898/SQL-queries/tree/master/0357-count-numbers-with-unique-digits) |
 | [0647-palindromic-substrings](https://github.com/palak9898/SQL-queries/tree/master/0647-palindromic-substrings) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/palak9898/SQL-queries/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/palak9898/LEETCODE-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/palak9898/LEETCODE-practice/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/palak9898/SQL-queries/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/palak9898/SQL-queries/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/palak9898/SQL-queries/tree/master/0179-largest-number) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/palak9898/SQL-queries/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/palak9898/SQL-queries/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/palak9898/SQL-queries/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/palak9898/LEETCODE-practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/palak9898/SQL-queries/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/palak9898/SQL-queries/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/palak9898/SQL-queries/tree/master/0242-valid-anagram) |
@@ -405,4 +409,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0686-repeated-string-match](https://github.com/palak9898/SQL-queries/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/palak9898/SQL-queries/tree/master/0812-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/palak9898/LEETCODE-practice/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/palak9898/LEETCODE-practice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
