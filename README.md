@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/palak9898/LEETCODE-practice/tree/master/0198-house-robber) |
 | [0218-the-skyline-problem](https://github.com/palak9898/SQL-queries/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/0219-contains-duplicate-ii) |
+| [0260-single-number-iii](https://github.com/palak9898/LEETCODE-practice/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/palak9898/SQL-queries/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/palak9898/SQL-queries/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/palak9898/SQL-queries/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/palak9898/LEETCODE-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/palak9898/SQL-queries/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/palak9898/LEETCODE-practice/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/palak9898/SQL-queries/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/palak9898/SQL-queries/tree/master/0461-hamming-distance) |
 | [2478-longest-nice-subarray](https://github.com/palak9898/SQL-queries/tree/master/2478-longest-nice-subarray) |
