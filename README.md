@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/palak9898/SQL-queries/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/palak9898/LEETCODE-practice/tree/master/0198-house-robber) |
 | [0218-the-skyline-problem](https://github.com/palak9898/SQL-queries/tree/master/0218-the-skyline-problem) |
+| [0219-contains-duplicate-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/palak9898/SQL-queries/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/palak9898/SQL-queries/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/palak9898/SQL-queries/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/palak9898/SQL-queries/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/palak9898/SQL-queries/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/palak9898/SQL-queries/tree/master/0643-maximum-average-subarray-i) |
 | [2478-longest-nice-subarray](https://github.com/palak9898/SQL-queries/tree/master/2478-longest-nice-subarray) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/palak9898/LEETCODE-practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/palak9898/SQL-queries/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/palak9898/SQL-queries/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/palak9898/SQL-queries/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/palak9898/SQL-queries/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/palak9898/SQL-queries/tree/master/0567-permutation-in-string) |
