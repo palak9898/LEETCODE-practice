@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/palak9898/SQL-queries/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/palak9898/SQL-queries/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/palak9898/SQL-queries/tree/master/0874-backspace-string-compare) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/palak9898/LEETCODE-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/palak9898/SQL-queries/tree/master/3195-separate-black-and-white-balls) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/palak9898/SQL-queries/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
