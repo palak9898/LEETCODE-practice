@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/palak9898/SQL-queries/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/palak9898/SQL-queries/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/palak9898/SQL-queries/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/palak9898/LEETCODE-practice/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/palak9898/SQL-queries/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/palak9898/LEETCODE-practice/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/palak9898/LEETCODE-practice/tree/master/0198-house-robber) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/palak9898/SQL-queries/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/palak9898/SQL-queries/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/palak9898/SQL-queries/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/palak9898/LEETCODE-practice/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/palak9898/LEETCODE-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/palak9898/LEETCODE-practice/tree/master/0139-word-break) |
