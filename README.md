@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/palak9898/SQL-queries/tree/master/2478-longest-nice-subarray) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/palak9898/SQL-queries/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/palak9898/LEETCODE-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/palak9898/SQL-queries/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/palak9898/SQL-queries/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/palak9898/SQL-queries/tree/master/0784-insert-into-a-binary-search-tree) |
+| [3790-fruits-into-baskets-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/palak9898/SQL-queries/tree/master/0218-the-skyline-problem) |
+| [3790-fruits-into-baskets-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Line Sweep
 |  |
 | ------- |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/palak9898/SQL-queries/tree/master/0218-the-skyline-problem) |
+| [3790-fruits-into-baskets-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/palak9898/SQL-queries/tree/master/0054-spiral-matrix) |
 | [0874-backspace-string-compare](https://github.com/palak9898/SQL-queries/tree/master/0874-backspace-string-compare) |
 | [1806-count-of-matches-in-tournament](https://github.com/palak9898/LEETCODE-practice/tree/master/1806-count-of-matches-in-tournament) |
+| [3790-fruits-into-baskets-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/3790-fruits-into-baskets-ii) |
 ## String Matching
 |  |
 | ------- |
