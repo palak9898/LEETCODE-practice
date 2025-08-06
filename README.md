@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/palak9898/SQL-queries/tree/master/0357-count-numbers-with-unique-digits) |
 | [0377-combination-sum-iv](https://github.com/palak9898/LEETCODE-practice/tree/master/0377-combination-sum-iv) |
 | [0647-palindromic-substrings](https://github.com/palak9898/SQL-queries/tree/master/0647-palindromic-substrings) |
+| [1013-fibonacci-number](https://github.com/palak9898/LEETCODE-practice/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/palak9898/SQL-queries/tree/master/0044-wildcard-matching) |
+| [1013-fibonacci-number](https://github.com/palak9898/LEETCODE-practice/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/palak9898/SQL-queries/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/palak9898/SQL-queries/tree/master/0202-happy-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/palak9898/SQL-queries/tree/master/0357-count-numbers-with-unique-digits) |
+| [1013-fibonacci-number](https://github.com/palak9898/LEETCODE-practice/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/palak9898/LEETCODE-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/palak9898/LEETCODE-practice/tree/master/1806-count-of-matches-in-tournament) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/palak9898/SQL-queries/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -453,4 +456,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/palak9898/LEETCODE-practice/tree/master/0139-word-break) |
+| [1013-fibonacci-number](https://github.com/palak9898/LEETCODE-practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
