@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/palak9898/SQL-queries/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/palak9898/LEETCODE-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/palak9898/LEETCODE-practice/tree/master/3791-fruits-into-baskets-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/palak9898/SQL-queries/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/palak9898/SQL-queries/tree/master/0784-insert-into-a-binary-search-tree) |
 | [3790-fruits-into-baskets-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/palak9898/LEETCODE-practice/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/palak9898/SQL-queries/tree/master/0218-the-skyline-problem) |
 | [3790-fruits-into-baskets-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/palak9898/LEETCODE-practice/tree/master/3791-fruits-into-baskets-iii) |
 ## Line Sweep
 |  |
 | ------- |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/palak9898/SQL-queries/tree/master/0218-the-skyline-problem) |
 | [3790-fruits-into-baskets-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/palak9898/LEETCODE-practice/tree/master/3791-fruits-into-baskets-iii) |
 ## Math
 |  |
 | ------- |
