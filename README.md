@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/palak9898/LEETCODE-practice/tree/master/0377-combination-sum-iv) |
 | [0647-palindromic-substrings](https://github.com/palak9898/SQL-queries/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/palak9898/LEETCODE-practice/tree/master/1013-fibonacci-number) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/palak9898/LEETCODE-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Greedy
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/palak9898/SQL-queries/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2478-longest-nice-subarray](https://github.com/palak9898/SQL-queries/tree/master/2478-longest-nice-subarray) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/palak9898/SQL-queries/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/palak9898/LEETCODE-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/palak9898/LEETCODE-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/palak9898/LEETCODE-practice/tree/master/3791-fruits-into-baskets-iii) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/palak9898/SQL-queries/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/palak9898/SQL-queries/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/palak9898/SQL-queries/tree/master/0085-maximal-rectangle) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/palak9898/LEETCODE-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Monotonic Stack
 |  |
 | ------- |
