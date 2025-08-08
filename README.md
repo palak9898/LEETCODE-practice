@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/palak9898/SQL-queries/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0357-count-numbers-with-unique-digits](https://github.com/palak9898/SQL-queries/tree/master/0357-count-numbers-with-unique-digits) |
 | [0377-combination-sum-iv](https://github.com/palak9898/LEETCODE-practice/tree/master/0377-combination-sum-iv) |
+| [0518-coin-change-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/palak9898/SQL-queries/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/palak9898/LEETCODE-practice/tree/master/1013-fibonacci-number) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/palak9898/LEETCODE-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/palak9898/SQL-queries/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0349-intersection-of-two-arrays](https://github.com/palak9898/SQL-queries/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/palak9898/LEETCODE-practice/tree/master/0377-combination-sum-iv) |
+| [0518-coin-change-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/palak9898/SQL-queries/tree/master/0643-maximum-average-subarray-i) |
 | [0917-boats-to-save-people](https://github.com/palak9898/SQL-queries/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/palak9898/LEETCODE-practice/tree/master/0940-fruit-into-baskets) |
