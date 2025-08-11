@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/palak9898/SQL-queries/tree/master/0357-count-numbers-with-unique-digits) |
 | [0377-combination-sum-iv](https://github.com/palak9898/LEETCODE-practice/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/palak9898/LEETCODE-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/palak9898/LEETCODE-practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/palak9898/SQL-queries/tree/master/0647-palindromic-substrings) |
 | [0826-soup-servings](https://github.com/palak9898/LEETCODE-practice/tree/master/0826-soup-servings) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/palak9898/SQL-queries/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/palak9898/LEETCODE-practice/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/palak9898/LEETCODE-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/palak9898/LEETCODE-practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/palak9898/SQL-queries/tree/master/0643-maximum-average-subarray-i) |
 | [0917-boats-to-save-people](https://github.com/palak9898/SQL-queries/tree/master/0917-boats-to-save-people) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/palak9898/SQL-queries/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/palak9898/SQL-queries/tree/master/0090-subsets-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/palak9898/SQL-queries/tree/master/0357-count-numbers-with-unique-digits) |
+| [0494-target-sum](https://github.com/palak9898/LEETCODE-practice/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/palak9898/LEETCODE-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Stack
 |  |
