@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/palak9898/SQL-queries/tree/master/0647-palindromic-substrings) |
 | [0826-soup-servings](https://github.com/palak9898/LEETCODE-practice/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/palak9898/LEETCODE-practice/tree/master/1013-fibonacci-number) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/palak9898/LEETCODE-practice/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/palak9898/LEETCODE-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Greedy
 |  |
