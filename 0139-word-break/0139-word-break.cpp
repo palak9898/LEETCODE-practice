@@ -1,20 +1,31 @@
 class Solution {
 public:
-    bool wordBreak(string s, vector<string>& wordDict) {
-        int n = s.size();
-        unordered_set<string> dict(wordDict.begin(), wordDict.end());
-        vector<bool> dp(n + 1, false); 
-        dp[0] = true;
+    unordered_set<string> st;
+    int n;
+    vector<int> dp;
 
-        for (int i = 1; i <= n; i++) {
-            for (int j = 0; j < i; j++) {
-                if (dp[j] && dict.count(s.substr(j, i - j))) {
-                    dp[i] = true;
-                    break;
-                }
+    bool solve(int idx, string &s) {
+        if (idx == n) return true;
+        if (dp[idx] != -1) return dp[idx];
+
+        for (int l = 1; l <= n - idx; l++) {
+            string temp = s.substr(idx, l);
+            if (st.find(temp) != st.end() && solve(idx + l, s)) {
+                return dp[idx] = true;
             }
         }
+        return dp[idx] = false;
+    }
 
-        return dp[n];
+    bool wordBreak(string s, vector<string>& wordDict) {
+        n = s.length();  // FIX: assign to class variable
+        dp.assign(n, -1);
+        st.clear();
+
+        for (string &word : wordDict) {
+            st.insert(word);
+        }
+
+        return solve(0, s);
     }
 };
