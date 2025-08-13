@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/palak9898/SQL-queries/tree/master/0044-wildcard-matching) |
+| [0326-power-of-three](https://github.com/palak9898/LEETCODE-practice/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/palak9898/LEETCODE-practice/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/palak9898/SQL-queries/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/palak9898/SQL-queries/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/palak9898/SQL-queries/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/palak9898/LEETCODE-practice/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/palak9898/SQL-queries/tree/master/0357-count-numbers-with-unique-digits) |
 | [0826-soup-servings](https://github.com/palak9898/LEETCODE-practice/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/palak9898/LEETCODE-practice/tree/master/1013-fibonacci-number) |
