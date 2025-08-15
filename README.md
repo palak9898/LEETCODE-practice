@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/palak9898/SQL-queries/tree/master/0044-wildcard-matching) |
 | [0326-power-of-three](https://github.com/palak9898/LEETCODE-practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/palak9898/LEETCODE-practice/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/palak9898/LEETCODE-practice/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/palak9898/SQL-queries/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/palak9898/LEETCODE-practice/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/palak9898/SQL-queries/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/palak9898/LEETCODE-practice/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/palak9898/SQL-queries/tree/master/0461-hamming-distance) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/palak9898/LEETCODE-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2478-longest-nice-subarray](https://github.com/palak9898/SQL-queries/tree/master/2478-longest-nice-subarray) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/palak9898/SQL-queries/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/palak9898/SQL-queries/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/palak9898/LEETCODE-practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/palak9898/LEETCODE-practice/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/palak9898/SQL-queries/tree/master/0357-count-numbers-with-unique-digits) |
 | [0826-soup-servings](https://github.com/palak9898/LEETCODE-practice/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/palak9898/LEETCODE-practice/tree/master/1013-fibonacci-number) |
