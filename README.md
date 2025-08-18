@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/palak9898/LEETCODE-practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/palak9898/SQL-queries/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/palak9898/LEETCODE-practice/tree/master/0679-24-game) |
 | [0917-boats-to-save-people](https://github.com/palak9898/SQL-queries/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/palak9898/LEETCODE-practice/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/palak9898/SQL-queries/tree/master/0941-sort-array-by-parity) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/palak9898/LEETCODE-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/palak9898/LEETCODE-practice/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/palak9898/SQL-queries/tree/master/0357-count-numbers-with-unique-digits) |
+| [0679-24-game](https://github.com/palak9898/LEETCODE-practice/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/palak9898/LEETCODE-practice/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/palak9898/LEETCODE-practice/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/palak9898/LEETCODE-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/palak9898/SQL-queries/tree/master/0090-subsets-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/palak9898/SQL-queries/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/palak9898/LEETCODE-practice/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/palak9898/LEETCODE-practice/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/palak9898/LEETCODE-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Stack
 |  |
