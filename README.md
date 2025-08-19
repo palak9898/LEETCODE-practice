@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/palak9898/LEETCODE-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/palak9898/SQL-queries/tree/master/2215-finding-3-digit-even-numbers) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/palak9898/SQL-queries/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/palak9898/LEETCODE-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2478-longest-nice-subarray](https://github.com/palak9898/SQL-queries/tree/master/2478-longest-nice-subarray) |
 | [2529-range-product-queries-of-powers](https://github.com/palak9898/LEETCODE-practice/tree/master/2529-range-product-queries-of-powers) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/palak9898/SQL-queries/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/palak9898/LEETCODE-practice/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/palak9898/LEETCODE-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/palak9898/LEETCODE-practice/tree/master/1806-count-of-matches-in-tournament) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/palak9898/LEETCODE-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/palak9898/SQL-queries/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Backtracking
 |  |
