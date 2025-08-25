@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/palak9898/LEETCODE-practice/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/palak9898/LEETCODE-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/palak9898/LEETCODE-practice/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/palak9898/LEETCODE-practice/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/palak9898/SQL-queries/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/palak9898/LEETCODE-practice/tree/master/0679-24-game) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/palak9898/SQL-queries/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/palak9898/SQL-queries/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/palak9898/SQL-queries/tree/master/0085-maximal-rectangle) |
+| [0498-diagonal-traverse](https://github.com/palak9898/LEETCODE-practice/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/palak9898/LEETCODE-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/palak9898/LEETCODE-practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/palak9898/LEETCODE-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/palak9898/SQL-queries/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/palak9898/SQL-queries/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/palak9898/LEETCODE-practice/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/palak9898/SQL-queries/tree/master/0874-backspace-string-compare) |
 | [1806-count-of-matches-in-tournament](https://github.com/palak9898/LEETCODE-practice/tree/master/1806-count-of-matches-in-tournament) |
 | [3790-fruits-into-baskets-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/3790-fruits-into-baskets-ii) |
