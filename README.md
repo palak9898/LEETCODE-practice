@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/palak9898/LEETCODE-practice/tree/master/1806-count-of-matches-in-tournament) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/palak9898/LEETCODE-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/palak9898/SQL-queries/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/palak9898/LEETCODE-practice/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Backtracking
 |  |
 | ------- |
