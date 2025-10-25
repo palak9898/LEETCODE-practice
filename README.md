@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/palak9898/SQL-queries/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/palak9898/LEETCODE-practice/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/palak9898/LEETCODE-practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/palak9898/SQL-queries/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/palak9898/SQL-queries/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/palak9898/SQL-queries/tree/master/0096-unique-binary-search-trees) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/palak9898/SQL-queries/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/palak9898/SQL-queries/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/palak9898/SQL-queries/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/palak9898/LEETCODE-practice/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/palak9898/SQL-queries/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/palak9898/SQL-queries/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/palak9898/SQL-queries/tree/master/0202-happy-number) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/palak9898/LEETCODE-practice/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/palak9898/LEETCODE-practice/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/palak9898/LEETCODE-practice/tree/master/1013-fibonacci-number) |
 ## Probability and Statistics
