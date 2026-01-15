@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/palak9898/SQL-queries/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/palak9898/SQL-queries/tree/master/1019-squares-of-a-sorted-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/palak9898/SQL-queries/tree/master/2215-finding-3-digit-even-numbers) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/palak9898/LEETCODE-practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Array
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/palak9898/LEETCODE-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2478-longest-nice-subarray](https://github.com/palak9898/SQL-queries/tree/master/2478-longest-nice-subarray) |
 | [2529-range-product-queries-of-powers](https://github.com/palak9898/LEETCODE-practice/tree/master/2529-range-product-queries-of-powers) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/palak9898/LEETCODE-practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/palak9898/LEETCODE-practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/palak9898/SQL-queries/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/palak9898/LEETCODE-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
