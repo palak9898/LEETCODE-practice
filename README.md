@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/palak9898/SQL-queries/tree/master/2478-longest-nice-subarray) |
 | [2529-range-product-queries-of-powers](https://github.com/palak9898/LEETCODE-practice/tree/master/2529-range-product-queries-of-powers) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/palak9898/LEETCODE-practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/palak9898/LEETCODE-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/palak9898/LEETCODE-practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/palak9898/SQL-queries/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/palak9898/LEETCODE-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/palak9898/SQL-queries/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/palak9898/LEETCODE-practice/tree/master/0940-fruit-into-baskets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/palak9898/SQL-queries/tree/master/2215-finding-3-digit-even-numbers) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/palak9898/LEETCODE-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/palak9898/SQL-queries/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/palak9898/LEETCODE-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/palak9898/LEETCODE-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/palak9898/SQL-queries/tree/master/2215-finding-3-digit-even-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/palak9898/LEETCODE-practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/palak9898/LEETCODE-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Simulation
 |  |
 | ------- |
