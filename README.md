@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/palak9898/SQL-queries/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/palak9898/LEETCODE-practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/palak9898/SQL-queries/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/palak9898/LEETCODE-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/palak9898/SQL-queries/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/palak9898/SQL-queries/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/palak9898/SQL-queries/tree/master/0917-boats-to-save-people) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/palak9898/LEETCODE-practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/palak9898/SQL-queries/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/palak9898/LEETCODE-practice/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/palak9898/LEETCODE-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/palak9898/SQL-queries/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/palak9898/LEETCODE-practice/tree/master/0260-single-number-iii) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/palak9898/SQL-queries/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/palak9898/LEETCODE-practice/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/palak9898/SQL-queries/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/palak9898/LEETCODE-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/palak9898/SQL-queries/tree/master/0218-the-skyline-problem) |
 | [0948-sort-an-array](https://github.com/palak9898/SQL-queries/tree/master/0948-sort-an-array) |
 ## Tree
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/palak9898/LEETCODE-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/palak9898/SQL-queries/tree/master/0218-the-skyline-problem) |
 | [0948-sort-an-array](https://github.com/palak9898/SQL-queries/tree/master/0948-sort-an-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/palak9898/SQL-queries/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -552,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/palak9898/LEETCODE-practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/palak9898/LEETCODE-practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
