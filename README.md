@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/palak9898/SQL-queries/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/palak9898/LEETCODE-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/palak9898/SQL-queries/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/palak9898/LEETCODE-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/palak9898/SQL-queries/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/palak9898/SQL-queries/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/palak9898/SQL-queries/tree/master/0941-sort-array-by-parity) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/palak9898/SQL-queries/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/palak9898/SQL-queries/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/palak9898/SQL-queries/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0347-top-k-frequent-elements](https://github.com/palak9898/LEETCODE-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/palak9898/SQL-queries/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/palak9898/LEETCODE-practice/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/palak9898/LEETCODE-practice/tree/master/0416-partition-equal-subset-sum) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/palak9898/SQL-queries/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/palak9898/LEETCODE-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/palak9898/SQL-queries/tree/master/0218-the-skyline-problem) |
+| [0347-top-k-frequent-elements](https://github.com/palak9898/LEETCODE-practice/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/palak9898/SQL-queries/tree/master/0948-sort-an-array) |
 ## Tree
 |  |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/palak9898/LEETCODE-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/palak9898/SQL-queries/tree/master/0218-the-skyline-problem) |
+| [0347-top-k-frequent-elements](https://github.com/palak9898/LEETCODE-practice/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/palak9898/SQL-queries/tree/master/0948-sort-an-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/palak9898/SQL-queries/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Merge Sort
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/palak9898/SQL-queries/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/palak9898/LEETCODE-practice/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/palak9898/SQL-queries/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -339,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/palak9898/LEETCODE-practice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/palak9898/LEETCODE-practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/palak9898/LEETCODE-practice/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/palak9898/SQL-queries/tree/master/0948-sort-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/palak9898/SQL-queries/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -471,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/palak9898/SQL-queries/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/palak9898/SQL-queries/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/palak9898/LEETCODE-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/palak9898/SQL-queries/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/palak9898/LEETCODE-practice/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/palak9898/SQL-queries/tree/master/0567-permutation-in-string) |
@@ -560,4 +567,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/palak9898/LEETCODE-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/palak9898/LEETCODE-practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
