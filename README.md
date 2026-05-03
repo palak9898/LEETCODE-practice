@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/palak9898/SQL-queries/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/palak9898/SQL-queries/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/palak9898/SQL-queries/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/palak9898/LEETCODE-practice/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/palak9898/SQL-queries/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/palak9898/SQL-queries/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/palak9898/LEETCODE-practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/palak9898/SQL-queries/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/palak9898/LEETCODE-practice/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/palak9898/SQL-queries/tree/master/0812-rotate-string) |
 ## Trie
 |  |
