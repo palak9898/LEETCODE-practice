@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/palak9898/LEETCODE-practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/palak9898/LEETCODE-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/palak9898/LEETCODE-practice/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/palak9898/SQL-queries/tree/master/3195-separate-black-and-white-balls) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/palak9898/SQL-queries/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/palak9898/SQL-queries/tree/master/0917-boats-to-save-people) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/palak9898/SQL-queries/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/palak9898/SQL-queries/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/palak9898/SQL-queries/tree/master/3195-separate-black-and-white-balls) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/palak9898/LEETCODE-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Recursion
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/palak9898/SQL-queries/tree/master/1019-squares-of-a-sorted-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/palak9898/SQL-queries/tree/master/2215-finding-3-digit-even-numbers) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/palak9898/LEETCODE-practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
 |  |
 | ------- |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/palak9898/LEETCODE-practice/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/palak9898/LEETCODE-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/palak9898/SQL-queries/tree/master/0948-sort-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/palak9898/SQL-queries/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Indexed Tree
 |  |
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/palak9898/LEETCODE-practice/tree/master/0940-fruit-into-baskets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/palak9898/SQL-queries/tree/master/2215-finding-3-digit-even-numbers) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/palak9898/LEETCODE-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/palak9898/SQL-queries/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/palak9898/LEETCODE-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
