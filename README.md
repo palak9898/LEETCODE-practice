@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/palak9898/SQL-queries/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/palak9898/SQL-queries/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/palak9898/LEETCODE-practice/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/palak9898/LEETCODE-practice/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/palak9898/SQL-queries/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/palak9898/SQL-queries/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/palak9898/LEETCODE-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/palak9898/SQL-queries/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0357-count-numbers-with-unique-digits](https://github.com/palak9898/SQL-queries/tree/master/0357-count-numbers-with-unique-digits) |
 | [0377-combination-sum-iv](https://github.com/palak9898/LEETCODE-practice/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/palak9898/LEETCODE-practice/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/palak9898/LEETCODE-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/palak9898/LEETCODE-practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/palak9898/LEETCODE-practice/tree/master/0518-coin-change-ii) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/palak9898/SQL-queries/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/palak9898/SQL-queries/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/palak9898/SQL-queries/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/palak9898/LEETCODE-practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/palak9898/SQL-queries/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/palak9898/SQL-queries/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/palak9898/SQL-queries/tree/master/0647-palindromic-substrings) |
